@@ -415,5 +415,5 @@ db:
         getch();
         goto menu;
     }
-    return 1;
+    return 0;
 }
